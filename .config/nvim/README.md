@@ -4,5 +4,5 @@ Steps to install this config:
 3. Install ripgrep(for grep files).
 
 Hints:
-* Install **xclip** to be able to copy to system clipboard.
+* Install **xclip**(Xorg), **wl-clipboard**(wayland) to be able to copy to system clipboard.
 
