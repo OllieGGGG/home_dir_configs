@@ -6,3 +6,4 @@ Steps to install this config:
 Hints:
 * Install **xclip**(Xorg), **wl-clipboard**(wayland) to be able to copy to system clipboard.
 
+

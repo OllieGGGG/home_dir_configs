@@ -12,7 +12,8 @@ return require('packer').startup(function(use)
 	  requires = { {'nvim-lua/plenary.nvim'} }
   }
 
-  use "rebelot/kanagawa.nvim"
+  -- Neovim theme
+  use 'Mofiqul/vscode.nvim'
 
   use('nvim-treesitter/nvim-treesitter', {run = ':TSUpdate'})
 
@@ -37,13 +38,6 @@ return require('packer').startup(function(use)
 	  "williamboman/mason.nvim",
 	  "williamboman/mason-lspconfig.nvim",
 	  "neovim/nvim-lspconfig",
-  }
-
-  use {
-      'nvim-tree/nvim-tree.lua',
-      requires = {
-          'nvim-tree/nvim-web-devicons', -- optional
-      },
   }
 
 end)
