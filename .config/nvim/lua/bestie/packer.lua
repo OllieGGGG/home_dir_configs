@@ -12,8 +12,12 @@ return require('packer').startup(function(use)
 	  requires = { {'nvim-lua/plenary.nvim'} }
   }
 
-  -- Neovim theme
-  use 'Mofiqul/vscode.nvim'
+  use {
+  "folke/tokyonight.nvim",
+  lazy = false,
+  priority = 1000,
+  opts = {},
+  }
 
   use('nvim-treesitter/nvim-treesitter', {run = ':TSUpdate'})
 
