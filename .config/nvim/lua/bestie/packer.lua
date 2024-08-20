@@ -1,4 +1,5 @@
--- This file can be loaded by calling `lua require('plugins')` from your init.vim
+-- Configure packer manager.
+-- List all plugins here you need.
 
 -- Only required if you have packer configured as `opt`
 vim.cmd [[packadd packer.nvim]]
@@ -13,10 +14,10 @@ return require('packer').startup(function(use)
   }
 
   use {
-  "folke/tokyonight.nvim",
-  lazy = false,
-  priority = 1000,
-  opts = {},
+      "folke/tokyonight.nvim",
+      lazy = false,
+      priority = 1000,
+      opts = {},
   }
 
   use('nvim-treesitter/nvim-treesitter', {run = ':TSUpdate'})
