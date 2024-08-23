@@ -189,9 +189,9 @@ client.focused          #97FA3B #285577 #ffffff #2e9ef4   #285577
 focus_follows_mouse no
 
 # Automatically start application on first load.
-# exec google-chrome
 exec megasync
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh
+exec_always "setxkbmap -model pc105 -layout us,ru -variant ,, -option grp:alt_space_toggle"
 
 # Run application on hot key.
 bindsym $mod+Shift+p exec google-chrome
