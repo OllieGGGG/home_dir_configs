@@ -93,7 +93,7 @@ bindsym $mod+h split h
 bindsym $mod+v split v
 
 # enter fullscreen mode for the focused container
-bindsym $mod+f fullscreen toggle
+bindsym $mod+p fullscreen toggle
 
 # change container layout (stacked, tabbed, toggle split)
 bindsym $mod+s layout stacking
@@ -189,14 +189,12 @@ client.focused          #97FA3B #285577 #ffffff #2e9ef4   #285577
 focus_follows_mouse no
 
 # Automatically start application on first load.
-exec megasync
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh
 exec_always "setxkbmap -model pc105 -layout us,ru -variant ,, -option grp:alt_space_toggle"
+exec_always nitrogen --restore
 
 # Run application on hot key.
 bindsym $mod+Shift+p exec google-chrome
 
 # Clipboard screenshots.
-bindsym Ctrl+Print exec --no-startup-id maim | xclip -selection clipboard -t image/png
-bindsym Ctrl+$mod+Print exec --no-startup-id maim --window $(xdotool getactivewindow) | xclip -selection clipboard -t image/png
-bindsym Ctrl+Shift+Print exec --no-startup-id maim --select | xclip -selection clipboard -t image/png
+bindsym Ctrl+Print exec flameshot launcher

@@ -1,0 +1,3 @@
+flameshot - for screenshot
+alacritty - terminal emulator
+nitrogen - application for wallpaper
