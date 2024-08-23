@@ -1,3 +1,5 @@
+List of applications you need to install, if you want to use i3 wm.
+
 flameshot - for screenshot
 alacritty - terminal emulator
 nitrogen - application for wallpaper
