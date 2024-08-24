@@ -184,7 +184,7 @@ mode "resize" {
 bindsym $mod+r mode "resize"
 
 # Section of my custom settings.
-default_border pixel 4
+default_border pixel 0
 client.focused          #97FA3B #285577 #ffffff #2e9ef4   #285577
 focus_follows_mouse no
 
