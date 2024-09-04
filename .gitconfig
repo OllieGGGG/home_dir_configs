@@ -2,3 +2,6 @@
     co = checkout
     st = status
     cm = commit -m
+[user]
+	email = oleg.ignatenko12@gmail.com
+	name = Oleg
