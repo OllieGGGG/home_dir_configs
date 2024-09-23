@@ -1,5 +1,19 @@
 List of applications you need to install, if you want to use i3 wm.
 
+vim    - editor
+ranger - ranger
+htop   - show processes
+tmux   - terminal splitter
+
+i3      - window manager
+polybar - bar for i3
+
+nm-connection-editor - GUI for setup connections
+pavucontrol          - application to control everything with sound
+
+feh - image viewer
+vlc - video player
+
 flameshot - for screenshot
 alacritty - terminal emulator
-nitrogen - application for wallpaper
+nitrogen  - application for wallpaper
