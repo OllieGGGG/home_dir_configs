@@ -10,6 +10,7 @@ polybar - bar for i3
 
 nm-connection-editor - GUI for setup connections
 pavucontrol          - application to control everything with sound
+arandr	  	     - GUI to control displays
 
 feh - image viewer
 vlc - video player
