@@ -209,8 +209,10 @@ exec_always "setxkbmap -model pc105 -layout us,ru -variant ,, -option grp:alt_sp
 exec_always nitrogen --restore
 
 # Run application on hot key.
-bindsym $mod+Shift+p exec firefox
-bindsym $mod+Shift+f exec nautilus
+bindsym $mod+Shift+p exec google-chrome
+bindsym $mod+Shift+n exec nm-connection-editor
+bindsym $mod+Shift+s exec pavucontrol
+bindsym $mod+Shift+f exec thunar
 
 # Clipboard screenshots.
 bindsym Ctrl+Print exec flameshot launcher
