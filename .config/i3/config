@@ -206,7 +206,8 @@ focus_follows_mouse no
 # Automatically start application on first load.
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh
 exec_always "setxkbmap -model pc105 -layout us,ru -variant ,, -option grp:alt_space_toggle"
-exec_always nitrogen --restore
+exec_always "feh --bg-fill ~/Desktop/1.jpg"
+exec_always "bash ~/.config/screenlayout/only-hdmi.sh"
 
 # Run application on hot key.
 bindsym $mod+Shift+p exec google-chrome
