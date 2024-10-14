@@ -1,0 +1,12 @@
+List of actions i need to perform to setup xfce.
+Just to make it works the way i like the most.
+
+1. Keyboard layout
+
+2. Keyboard shortcuts
+- Switch betwen workspaces
+- Move window to different workspaces
+- Snap window to left, right, maximize it
+- Alt+Enter to run terminal
+- Alt+Shift+P to turn browser
+
