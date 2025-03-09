@@ -1,4 +1,4 @@
-List of applications you need to install, if you want to use i3 wm.
+List of applications you need to install i always like to install
 
 vim    - editor
 neovim - better editor
@@ -7,16 +7,9 @@ htop   - show processes
 tmux   - terminal splitter
 thunar - file manager
 
-i3      - window manager
-polybar - bar for i3
-
-nm-connection-editor - GUI for setup connections
-pavucontrol          - application to control everything with sound
-arandr	  	     - GUI to control displays
-
 feh - image viewer
 vlc - video player
 
 flameshot - for screenshot
 alacritty - terminal emulator
-feh       - application for wallpaper
+obsidian  - like to watch my notes not in VIM
