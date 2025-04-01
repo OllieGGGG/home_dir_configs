@@ -12,9 +12,10 @@ thunar - file manager
 feh - image viewer
 vlc - video player
 
-mega - cloud storage
-obsidian  - like to watch my notes not in VIM
-neovim - better editor
+mega     - cloud storage
+obsidian - like to watch my notes not in VIM
+neovim   - better editor
+telegram - messenger
 
 flameshot - for screenshot
 alacritty - terminal emulator
