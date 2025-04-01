@@ -1,7 +1,10 @@
 List of applications you need to install i always like to install
 
 vim    - editor
+git    - system control
+tldr   - terminal commands tips
 neovim - better editor
+rsync  - syncing
 ranger - ranger
 htop   - show processes
 tmux   - terminal splitter
