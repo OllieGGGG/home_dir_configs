@@ -3,7 +3,6 @@ List of applications you need to install i always like to install
 vim    - editor
 git    - system control
 tldr   - terminal commands tips
-neovim - better editor
 rsync  - syncing
 ranger - ranger
 htop   - show processes
@@ -13,6 +12,9 @@ thunar - file manager
 feh - image viewer
 vlc - video player
 
+mega - cloud storage
+obsidian  - like to watch my notes not in VIM
+neovim - better editor
+
 flameshot - for screenshot
 alacritty - terminal emulator
-obsidian  - like to watch my notes not in VIM
