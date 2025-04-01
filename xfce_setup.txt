@@ -1,15 +1,29 @@
 List of actions i need to perform to setup xfce.
 Just to make it works the way i like the most.
 
-1. Keyboard layout
 
-2. Keyboard shortcuts
-- Switch betwen workspaces
-- Move window to different workspaces
-- Snap window to left, right, maximize it
-- Alt+Enter to run terminal
-- Alt+Shift+P to turn browser
 
-3. Window behaviour
-Window manager tweaks -> Focus -> Switch to window's workspace
+### Workspaces and windows
+- Window behaviour
+  Window manager tweaks -> Focus -> Switch to window's workspace
+- Add 5 workspaces
+- Remove default icons
+  Desktop settings -> Icons
+
+- Add keyboard layout to Panel 1
+- Change size of Panel 1
+- Remove low Panel (Panel 2)
+
+#### Keyboard
+- Keyboard layout
+  Settings Manager -> Keyboard -> Layout
+- Keyboard shorcuts (Settings Manager -> Window Manager -> Keyboard)
+  - Switch between workspaces
+  - Move window to different workspaces
+  - Tile window to left, right, maximize it
+- Keyboard application shortcuts(Settings Manager -> Keyboard -> Application Shortcuts)
+  - Alt+Enter to run terminal
+  - Alt+Shift+P to turn browser
+
+
 
