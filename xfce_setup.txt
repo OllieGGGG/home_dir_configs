@@ -23,3 +23,6 @@ Just to make it works the way i like the most.
 - Keyboard application shortcuts(Settings Manager -> Keyboard -> Application Shortcuts)
   - Alt+Enter to run terminal
   - Alt+Shift+P to turn browser
+
+### General
+- Disable lock the screen (Settings Manager -> Power Manager -> Security)
