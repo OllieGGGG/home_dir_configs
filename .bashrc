@@ -1,6 +1,6 @@
 export MEGA_PATH="~/MEGA"
 export VIVADO_PATH="/tools/Xilinx/Vivado/2022.2/bin"
-export NVIM_PATH="/opt/nvim-linux64/bin"
+export NVIM_PATH="/usr/local/bin"
 
 export PATH=$PATH:${VIVADO_PATH}:${NVIM_PATH}
 export EDITOR="nvim"
