@@ -5,16 +5,17 @@ Just to make it works the way i like the most.
 - Window behaviour
   Window manager tweaks -> Focus -> Switch to window's workspace
 - Add 5 workspaces
+  Workspaces
 - Remove default icons
   Desktop settings -> Icons
 
-- Add keyboard layout to Panel 1
 - Change size of Panel 1
 - Remove low Panel (Panel 2)
 
 #### Keyboard
 - Keyboard layout
   Settings Manager -> Keyboard -> Layout
+- Add keyboard layout to Panel 1
 - Keyboard shorcuts (Settings Manager -> Window Manager -> Keyboard)
   - Switch between workspaces
   - Move window to different workspaces

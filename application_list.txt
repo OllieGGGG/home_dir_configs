@@ -19,4 +19,4 @@ neovim   - better editor
 telegram - messenger
 
 flameshot - for screenshot
-alacritty - terminal emulator
+kitty - terminal emulator
